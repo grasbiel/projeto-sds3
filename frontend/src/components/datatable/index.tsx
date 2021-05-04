@@ -1,5 +1,3 @@
-import ImgDsDark from 'assets/image/ds_dark.svg'
-
 const DataTable = () => {
     return (
         <div className="table-responsive">
