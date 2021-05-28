@@ -4,6 +4,7 @@ import Chart from 'react-apexcharts'
 import { SaleSuccess } from 'types/sale';
 import { round } from 'utils/format';
 import { BASE_URL } from 'utils/request';
+
 type SeriesData = {
     name: string;
     data: number[];
